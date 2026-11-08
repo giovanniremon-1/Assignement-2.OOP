@@ -8,7 +8,7 @@ FCAI – OOP Assignment 2 – 2026/2027
   Lab: S24,S25
   Document :
   GitHub-repo :
-  Video :https:
+  Video :
 */
 #include "SimulatorUI.h"
 
